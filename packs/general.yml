@@ -54,3 +54,5 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1478727191/1348/spiderman.gif?1478727191
   - name: unacceptable
     src: http://emojis.slackmojis.com/emojis/images/1461073185/370/unacceptable.png?1461073185
+  - name: hooray
+    src: https://www.emojibase.com/resources/img/emojis/hangouts/1f64c.png
