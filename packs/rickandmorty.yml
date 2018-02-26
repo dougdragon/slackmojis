@@ -1,0 +1,134 @@
+title: rickandmorty
+emojis: 
+  - name: rick_happy
+    src: https://orig00.deviantart.net/119f/f/2016/226/4/f/emoji__rick__happy_by_bluedash24thegamer-dadxfjd.png
+  - name: rick_angry
+    src: https://orig00.deviantart.net/195a/f/2016/226/0/5/emoji__rick__angry_by_bluedash24thegamer-dadxfje.png
+  - name: rick_blank
+    src: https://orig00.deviantart.net/9896/f/2016/226/4/2/emoji__rick__blank_by_bluedash24thegamer-dadxfjw.png
+  - name: rick_drunk
+    src: https://orig00.deviantart.net/fc04/f/2016/226/e/a/emoji__rick__drunk_by_bluedash24thegamer-dadxfjz.png
+  - name: rick_bump
+    src: https://orig00.deviantart.net/862b/f/2016/226/b/2/emoji__rick__burp_by_bluedash24thegamer-dadxfk4.png
+  - name: tiny_rick
+    src: https://orig00.deviantart.net/5da8/f/2016/226/8/8/emoji__tiny__rick_by_bluedash24thegamer-dadxfk6.png
+  - name: wubba_lubba_dub_dub
+    src: https://orig00.deviantart.net/1d31/f/2016/226/6/4/emoji__rick__wubba_lubba_dub_dub__by_bluedash24thegamer-dadxfkb.png
+  - name: morty_smile
+    src: https://orig00.deviantart.net/8382/f/2016/226/2/d/emoji__morty__smile_by_bluedash24thegamer-dadxknm.png
+  - name: morty_angry
+    src: https://orig00.deviantart.net/f49f/f/2016/226/c/4/emoji__morty__angry_by_bluedash24thegamer-dadxknr.png
+  - name: morty_shout
+    src: https://orig00.deviantart.net/72f7/f/2016/226/a/4/emoji__morty__shout_by_bluedash24thegamer-dadxknw.png
+  - name: morty_worry
+    src: https://orig00.deviantart.net/85a7/f/2016/226/4/2/emoji__morty__worry_by_bluedash24thegamer-dadxkny.png
+  - name: morty_derp
+    src: https://orig00.deviantart.net/6b5a/f/2016/226/0/0/emoji__morty__derp_by_bluedash24thegamer-dadxko0.png
+  - name: morty_rainbow
+    src: https://orig00.deviantart.net/aa99/f/2016/226/b/2/emoji__morty__rainbow_barf_____by_bluedash24thegamer-dadxko2.png
+  - name: mr_pbh
+    src: https://orig00.deviantart.net/02e7/f/2016/226/e/b/emoji__mr_pbh__thumbs_up_by_bluedash24thegamer-dadxllb.png
+  - name: mr_pbh_ayearandahalf
+    src: https://orig00.deviantart.net/95e6/f/2016/226/1/8/emoji__mr_pbh__ayearandahalf_by_bluedash24thegamer-dadxllf.png
+  - name: mr_pbh_ooo_wee
+    src: https://orig00.deviantart.net/4a8f/f/2016/226/3/8/emoji__mr_pbh__ooo_wee__by_bluedash24thegamer-dadxllm.png
+  - name: meeseeks_can_do
+    src: https://orig00.deviantart.net/f2df/f/2016/226/c/2/emoji__meeseeks__caaaan_do__by_bluedash24thegamer-dadxllc.png
+  - name: meeseeks_angry
+    src: https://orig00.deviantart.net/83ab/f/2016/226/2/8/emoji__meeseeks__angry_by_bluedash24thegamer-dadxlli.png
+  - name: meeseeks_insane
+    src: https://orig00.deviantart.net/4377/f/2016/226/e/7/emoji__meeseeks__insane_by_bluedash24thegamer-dadxllo.png
+  - name: meeseeks_box
+    src: https://orig00.deviantart.net/3279/f/2016/226/8/0/emoji__meekseeks_box_by_bluedash24thegamer-dadxn5a.png
+  - name: portal_gun
+    src: https://orig00.deviantart.net/0a5a/f/2016/226/6/5/emoji__portal_gun_by_bluedash24thegamer-dadxn5h.png
+  - name: portal
+    src: https://orig00.deviantart.net/6c28/f/2016/226/d/7/emoji__portal_by_bluedash24thegamer-dadxn5e.png
+  - name: hooch
+    src: https://orig00.deviantart.net/f9cb/f/2016/226/a/4/emoji__beer_by_bluedash24thegamer-dadxn5k.png
+  - name: plumbus
+    src: https://orig00.deviantart.net/078d/f/2016/226/7/9/emoji__plumbus_by_bluedash24thegamer-dadxn5o.png
+  - name: ants_in_my_eyes_johnson
+    src: https://i.imgur.com/pqDHGth.png
+  - name: beth_angry
+    src: https://i.imgur.com/MvyrsB3.png
+  - name: beth_scared
+    src: https://i.imgur.com/wOJMDF7.png
+  - name: beth_serious
+    src: https://i.imgur.com/11jkJ2L.png
+  - name: beth_smile
+    src: https://i.imgur.com/oubZ6kK.png
+  - name: blips_n_chitz
+    src: https://i.imgur.com/6P3MM4t.png
+  - name: butter_robot
+    src: https://i.imgur.com/IaMqGK0.png
+  - name: giant_naked_man
+    src: https://i.imgur.com/KFLjbqg.png
+  - name: jerry_eyeroll
+    src: https://i.imgur.com/ub2bLxC.png
+  - name: jerry_mad
+    src: https://i.imgur.com/ZdxZcT3.png
+  - name: jerry_mansplain
+    src: https://i.imgur.com/SNATFKV.png
+  - name: jerry_scream
+    src: https://i.imgur.com/ZA8AVAk.png
+  - name: jerry_skeptic
+    src: https://i.imgur.com/xbD7m5r.png
+  - name: meeseeks_scream
+    src: https://i.imgur.com/1GKux6j.png
+  - name: meeseeks
+    src: https://i.imgur.com/THoremg.png
+  - name: morty_derp
+    src: https://i.imgur.com/9oanKWA.png
+  - name: morty_heh
+    src: https://i.imgur.com/9pMLzPa.png
+  - name: morty_messedup
+    src: https://i.imgur.com/MROtVii.png
+  - name: morty_sad
+    src: https://i.imgur.com/AyB2GrO.png
+  - name: morty_scream
+    src: https://i.imgur.com/OkYYe7w.png
+  - name: morty_smile
+    src: https://i.imgur.com/yj0qhXm.png
+  - name: mr_poopy_butthole_2
+    src: https://i.imgur.com/OSsgbip.png
+  - name: mr_poopy_butthole
+    src: https://i.imgur.com/bmVl9Mt.png
+  - name: pickle_rick
+    src: https://i.imgur.com/vPxxH5O.png
+  - name: rick_and_morty_portal
+    src: https://i.imgur.com/Pv5M5jp.png
+  - name: rick_drinking
+    src: https://i.imgur.com/6xOoHww.png
+  - name: rick_hey_2
+    src: https://i.imgur.com/oj8L7EE.png
+  - name: rick_hey
+    src: https://i.imgur.com/kCwmj4Z.png
+  - name: rick_uh
+    src: https://i.imgur.com/Zgsh8Aq.png
+  - name: rick_whatever
+    src: https://i.imgur.com/Oc69oE6.png
+  - name: rick_whoah
+    src: https://i.imgur.com/HlLxCwM.png
+  - name: robo_rick
+    src: https://i.imgur.com/av5W7lt.png
+  - name: screaming_sun
+    src: https://i.imgur.com/mSbfHER.png
+  - name: show_me_what_you_got
+    src: https://i.imgur.com/L96S1jI.png
+  - name: snuffles
+    src: https://i.imgur.com/Y4cwi6g.png
+  - name: doofus_rick
+    src: https://i.imgur.com/pqagLn0.png
+  - name: summer_crying
+    src: https://i.imgur.com/26q1vzR.png
+  - name: summer_happy
+    src: https://i.imgur.com/RytFWjw.png
+  - name: summer_mad
+    src: https://i.imgur.com/zBPJwdj.png
+  - name: summer_messedup
+    src: https://i.imgur.com/lTw3hN4.png
+  - name: summer_worried
+    src: https://i.imgur.com/AIkpof8.png
+  - name: szechuan_dipping_sauce
+    src: https://i.imgur.com/als9qlb.png

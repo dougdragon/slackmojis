@@ -1,0 +1,6 @@
+version: '2'
+services:
+    uploader:
+        image: moogar0880/emojipacks
+        volumes:
+            - ./:/mnt

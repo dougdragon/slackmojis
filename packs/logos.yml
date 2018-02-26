@@ -1,0 +1,47 @@
+title: logos
+emojis:
+  - name: amazon
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/42/amazon.png?1450319445
+  - name: ansible
+    src: http://emojis.slackmojis.com/emojis/images/1482350201/1514/ansible.png?1482350201
+  - name: appleinc
+    src: http://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442
+  - name: chrome
+    src: http://emojis.slackmojis.com/emojis/images/1450319453/119/chrome.png?1450319453
+  - name: circle
+    src: http://emojis.slackmojis.com/emojis/images/1475501840/1198/circle.png?1475501840
+  - name: docker
+    src: http://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762
+  - name: ethereum
+    aliases:
+    - ether
+    src: http://emojis.slackmojis.com/emojis/images/1457252455/311/ether.png?1457252455
+  - name: firefox
+    src: http://emojis.slackmojis.com/emojis/images/1450319453/118/firefox.png?1450319453
+  - name: git
+    src: http://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339
+  - name: github
+    src: http://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151
+  - name: gitlab
+    src: http://emojis.slackmojis.com/emojis/images/1480750447/1402/gitlab.png?1480750447
+  - name: gmail
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444
+  - name: golang
+    src: http://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974
+  - name: google
+    src: http://emojis.slackmojis.com/emojis/images/1450464805/195/google.png?1450464805
+  - name: java
+    src: http://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280
+  - name: kubernetes
+    aliases:
+    - k8s
+    - coming_soon_tm
+    src: http://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863
+  - name: python
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444
+  - name: reddit
+    src: http://emojis.slackmojis.com/emojis/images/1467306474/629/reddit.png?1467306474
+  - name: rust
+    src: http://emojis.slackmojis.com/emojis/images/1490800111/1965/rust.png?1490800111
+  - name: slack
+    src: http://emojis.slackmojis.com/emojis/images/1493686527/2160/slack.png?1493686527
