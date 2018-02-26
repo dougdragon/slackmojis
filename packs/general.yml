@@ -56,3 +56,33 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1461073185/370/unacceptable.png?1461073185
   - name: hooray
     src: https://www.emojibase.com/resources/img/emojis/hangouts/1f64c.png
+  - name: homer-disappear
+    src: http://emojis.slackmojis.com/emojis/images/1450475643/211/homer-disappear.gif?1450475643
+  - name: mrsparkle_homer
+    src: http://emojis.slackmojis.com/emojis/images/1499373583/2586/mrsparkle_homer.png?1499373583
+  - name: homer_thinking
+    src: http://emojis.slackmojis.com/emojis/images/1499373537/2585/homer_thinking.png?1499373537
+  - name: homer_doh
+    src: http://emojis.slackmojis.com/emojis/images/1499373440/2583/homer_doh.png?1499373440
+  - name: woohoo
+    src: http://emojis.slackmojis.com/emojis/images/1460141625/344/woohoo.png?1460141625
+  - name: worstever
+    src: http://emojis.slackmojis.com/emojis/images/1463602190/432/worst_ever.jpg?1463602190
+  - name: bananadance
+    src: http://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616
+  - name: duckhunt
+    src: http://emojis.slackmojis.com/emojis/images/1492807538/2109/duckhunt.gif?1492807538
+  - name: old_man_yells_at_cloud
+    src: http://emojis.slackmojis.com/emojis/images/1510092065/3163/old-man-yells-at-cloud.png?1510092065
+  - name: thisisfine
+    src: http://emojis.slackmojis.com/emojis/images/1494048701/2207/thisisfine.png?1494048701
+  - name: whisky
+    src: http://emojis.slackmojis.com/emojis/images/1464201164/497/whisky.png?1464201164
+  - name: success
+    src: http://emojis.slackmojis.com/emojis/images/1465999900/516/success.png?1465999900
+  - name: seriously
+    src: http://emojis.slackmojis.com/emojis/images/1463602020/426/seriously.png?1463602020
+  - name: challenge_accepted
+    src: http://emojis.slackmojis.com/emojis/images/1463601502/415/challenge_accepted.jpg?1463601502
+  - name: take_my_money
+    src: http://emojis.slackmojis.com/emojis/images/1450319446/65/take_my_money.png?1450319446
